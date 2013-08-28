@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2013-08-28T00:42:37.715">
+<file name="/scratch/jenkins/workspace/jclouds-maven-site-1.6.2/apis/filesystem/src/main/java/org/jclouds/filesystem/strategy/internal/FilesystemStorageStrategyImpl.java">
+<violation beginline="210" endline="212" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="org.jclouds.filesystem.strategy.internal" class="FilesystemStorageStrategyImpl" method="putBlob" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="349" endline="351" begincolumn="10" endcolumn="10" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="org.jclouds.filesystem.strategy.internal" class="FilesystemStorageStrategyImpl" method="normalize" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="358" endline="360" begincolumn="10" endcolumn="10" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="org.jclouds.filesystem.strategy.internal" class="FilesystemStorageStrategyImpl" method="denormalize" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="382" endline="383" begincolumn="10" endcolumn="27" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="org.jclouds.filesystem.strategy.internal" class="FilesystemStorageStrategyImpl" method="removeFileSeparatorFromBorders" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="429" endline="431" begincolumn="10" endcolumn="10" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="org.jclouds.filesystem.strategy.internal" class="FilesystemStorageStrategyImpl" method="openFolder" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+</pmd>
